@@ -1,0 +1,15 @@
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.AssemblyInfoInputs.cache
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.AssemblyInfo.cs
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.sourcelink.json
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\bin\Debug\net8.0\PRACTICE.exe
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\bin\Debug\net8.0\PRACTICE.deps.json
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\bin\Debug\net8.0\PRACTICE.runtimeconfig.json
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\bin\Debug\net8.0\PRACTICE.dll
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\bin\Debug\net8.0\PRACTICE.pdb
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.dll
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\refint\PRACTICE.dll
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.pdb
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\PRACTICE.genruntimeconfig.cache
+C:\Users\domai\RiderProjects\MODUL9\PRACTICE\obj\Debug\net8.0\ref\PRACTICE.dll
